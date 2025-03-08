@@ -1,0 +1,90 @@
+* {
+  cursor: url('./assets/Hammer.cur'), auto;
+}
+
+h1 {
+  font-size: 3em;
+  color: #fff;
+  text-align: center;
+  margin-top: 0;
+  padding: 20px;
+  background-color: #1e3a8a;
+  font-family: 'Press Start 2P', cursive;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #1a202c;
+  color: #fff;
+}
+
+header {
+  background-color: #2d3748;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  background-color: #38a169;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2f855a;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.p-10 {
+  padding: 10px;
+}
+
+.bg-gray-100 {
+  background-color: #f7fafc;
+}
+
+.bg-gray-900 {
+  background-color: #1a202c;
+}
+
+.min-h-screen {
+  min-height: 100vh;
+}
+
+.mb-5 {
+  margin-bottom: 20px;
+}
+
+.mb-10 {
+  margin-bottom: 40px;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+}
+
+.text-5xl {
+  font-size: 3rem;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+}
