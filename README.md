@@ -1,4 +1,4 @@
-Here's an example of a `README.md` for your project:
+
 
 ---
 
@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to adapt it based on your project's specifics!
+
